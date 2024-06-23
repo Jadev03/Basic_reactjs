@@ -1,0 +1,19 @@
+body{
+    
+    justify-content: center;
+    display: flex;
+    align-items:center ;
+    
+}
+.Dbox{
+    width:21rem;
+    height: 10rem;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+    top:140px;
+    border: 1px solid #000;
+
+}
